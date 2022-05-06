@@ -127,7 +127,12 @@ Regularized Autoencoders** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3219819.
 * [ACS JCIM 2021] **Generative Chemical Transformer: Neural Machine Learning of Molecular Geometric Structures from Chemical Language via Attention** [[Paper]](https://doi.org/10.1021/acs.jcim.1c01289)
 * [ACS JCIM 2021] **De Novo Structure-Based Drug Design Using Deep Learning** [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.1c01319) 
 
-
-
+2022
+----
+* [arXiv 2022] **A Survey on Deep Graph Generation: Methods and Applications**  [[Paper]](https://arxiv.org/abs/2203.06714)
+* [Nature Machine Intelligence 2022] **A deep generative model enables automated structure elucidation of novel psychoactive substances** [[Paper]](https://www.nature.com/articles/s42256-021-00407-x) [[Code]](https://github.com/skinnider/NPS-generation)
+* [arXiv 2022] **Equivariant Diffusion for Molecule Generation in 3D** [[Paper]](https://arxiv.org/abs/2203.17003) [[Code]](https://github.com/ehoogeboom/e3_diffusion_for_molecules)
+* [arXiv 2022] **Top-N: Equivariant set and graph generation without exchangeability** [[Paper]](https://arxiv.org/abs/2110.02096) [[Code]](https://github.com/cvignac/top-n)
+* [ACS JCIM 2022] **RetroGNN: Fast Estimation of Synthesizability for Virtual Screening and De Novo Design by Learning from Slow Retrosynthesis Software** [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.1c01476) 
 
 
