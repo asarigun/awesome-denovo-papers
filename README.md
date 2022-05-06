@@ -2,7 +2,7 @@
 
 ![heey](https://img.shields.io/badge/Be%20quite!-Someone%20reading!-blue)
 
-Papers about **De novo Drug Design :pill:**.
+Papers about **De novo Drug Design :pill:** collected by [@HUBioDataLab](https://github.com/HUBioDataLab) members.
 
 **Please feel free to add good, related papers. If there is any error about links, don't hesitate to pull!**
 
