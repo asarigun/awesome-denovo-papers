@@ -8,6 +8,8 @@ Papers about **De novo Drug Design :pill:** collected by [@HUBioDataLab](https:/
 
 2022
 ----
+* [ACS JCIM 2022] **HyFactor: A Novel Open-Source, Graph-Based Architecture for Chemical Structure Generation** [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00744) [[Code]](https://github.com/Laboratoire-de-Chemoinformatique/HyFactor)
+* [Journal of Cheminformatics 2022] **Designing optimized drug candidates with Generative Adversarial Network** [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00623-6) [[Code]](https://github.com/larngroup/GAN-Drug-Generator)
 * [arXiv 2022] **A Survey on Deep Graph Generation: Methods and Applications**  [[Paper]](https://arxiv.org/abs/2203.06714)
 * [Nature Machine Intelligence 2022] **A deep generative model enables automated structure elucidation of novel psychoactive substances** [[Paper]](https://www.nature.com/articles/s42256-021-00407-x) [[Code]](https://github.com/skinnider/NPS-generation)
 * [arXiv 2022] **Equivariant Diffusion for Molecule Generation in 3D** [[Paper]](https://arxiv.org/abs/2203.17003) [[Code]](https://github.com/ehoogeboom/e3_diffusion_for_molecules)
