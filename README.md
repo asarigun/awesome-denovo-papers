@@ -6,8 +6,12 @@ Papers about **De novo Drug Design :pill:** collected by [@HUBioDataLab](https:/
 
 **Please feel free to add good, related papers. If there is any error about links, don't hesitate to pull!**
 
+Template by [@mengliu1998](https://github.com/mengliu1998)!
+
 2022
 ----
+* [arXiv 2022] **DiffLinker: Equivariant 3D-Conditional Diffusion Model for Molecular Linker Design**  [[Paper]](https://arxiv.org/abs/2210.05274) [[Code]](https://github.com/igashov/DiffLinker)
+* [arXiv 2022] **DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking**  [[Paper]](https://arxiv.org/abs/2210.01776) [[Code]](https://github.com/gcorso/diffdock)
 * [ACS JCIM 2022] **HyFactor: A Novel Open-Source, Graph-Based Architecture for Chemical Structure Generation** [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00744) [[Code]](https://github.com/Laboratoire-de-Chemoinformatique/HyFactor)
 * [Journal of Cheminformatics 2022] **Designing optimized drug candidates with Generative Adversarial Network** [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00623-6) [[Code]](https://github.com/larngroup/GAN-Drug-Generator)
 * [arXiv 2022] **A Survey on Deep Graph Generation: Methods and Applications**  [[Paper]](https://arxiv.org/abs/2203.06714)
@@ -19,6 +23,7 @@ Papers about **De novo Drug Design :pill:** collected by [@HUBioDataLab](https:/
 
 2021
 ----
+* [scientific report 2021] **Transformer neural network for protein-specific de novo drug generation as a machine translation problem** [[Paper]](https://www.nature.com/articles/s41598-020-79682-4)[[Code]](https://github.com/dariagrechishnikova/molecule_structure_generation)
 * [RSC 2021] **Attention-based generative models for de novo molecular design**  [[Paper]](https://pubs.rsc.org/en/content/articlehtml/2021/sc/d1sc01050f)[[Code]](https://github.com/oriondollar/TransVAE)
 * [Nature Communications 2021] **Deep generative neural network for accurate drug response imputation** [[Paper]](https://www.nature.com/articles/s41467-021-21997-5)[[Code]](https://github.com/bsml320/VAEN/)
 * [Journal of Molecular Modeling 2021] **Generative chemistry: drug discovery with deep learning generative models** [[Paper]](https://arxiv.org/abs/2008.09000)
