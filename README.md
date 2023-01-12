@@ -10,6 +10,7 @@ Template by [@mengliu1998](https://github.com/mengliu1998)!
 
 2022
 ----
+* [arXiv 2022] **Structure-based drug discovery with deep learning**  [[Review Paper]](https://arxiv.org/abs/2212.13295) 
 * [arXiv 2022] **DiffLinker: Equivariant 3D-Conditional Diffusion Model for Molecular Linker Design**  [[Paper]](https://arxiv.org/abs/2210.05274) [[Code]](https://github.com/igashov/DiffLinker)
 * [arXiv 2022] **DiffDock: Diffusion Steps, Twists, and Turns for Molecular Docking**  [[Paper]](https://arxiv.org/abs/2210.01776) [[Code]](https://github.com/gcorso/diffdock)
 * [ACS JCIM 2022] **HyFactor: A Novel Open-Source, Graph-Based Architecture for Chemical Structure Generation** [[Paper]](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00744) [[Code]](https://github.com/Laboratoire-de-Chemoinformatique/HyFactor)
