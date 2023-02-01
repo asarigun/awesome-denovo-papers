@@ -2,11 +2,31 @@
 
 ![heey](https://img.shields.io/badge/Be%20quite!-Someone%20reading!-blue)
 
-Papers about **De novo Drug Design :pill:** collected by [@HUBioDataLab](https://github.com/HUBioDataLab) members.
+Papers about **De novo Drug Design :pill:**
 
 **Please feel free to add good, related papers. If there is any error about links, don't hesitate to pull!**
 
-Template by [@mengliu1998](https://github.com/mengliu1998)!
+
+2023
+----
+
+* [Nature Communications 2023] **Leveraging molecular structure and bioactivity with chemical language models for de novo drug design** [[Paper]](https://www.nature.com/articles/s41467-022-35692-6)
+
+* [Int. J. Mol. Sci. 2023] **PETrans: De Novo Drug Design with Protein-Specific Encoding Based on Transfer Learning** [[Paper]](https://www.mdpi.com/1422-0067/24/2/1146) [[Code]](https://github.com/Chinafor/PETrans)
+
+* [Wiley Interdisciplinary Reviews 2023] **Graph neural networks for conditional de novo drug design** [[Paper]](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcms.1651)
+
+* [Bioinformatics 2023] **HelixGAN a deep-learning methodology for conditional de novo design of α-helix structures** [[Paper]](https://academic.oup.com/bioinformatics/article/39/1/btad036/6991169) [[Code]](https://github.com/xxiexuezhi/helix_gan)
+
+* [arXiv 2023] **Fragment-based t-SMILES for de novo molecular generation** [[Paper]](https://arxiv.org/abs/2301.01829) [[Code]](https://github.com/juanniwu/t-smiles)
+
+* [J. Chem. Inf. Model. 2023] **De Novo Direct Inverse QSPR/QSAR: Chemical Variational Autoencoder and Gaussian Mixture Regression Models** [[Paper]](https://pubs.acs.org/doi/full/10.1021/acs.jcim.2c01298) 
+
+* [bioRxiv 2023] **A dual diffusion model enables 3D binding bioactive molecule generation and lead optimization given target pockets** [[Paper]](https://www.biorxiv.org/content/10.1101/2023.01.28.526011v1)
+
+* [Bioinformatics 2023] **Sc2Mol: a scaffold-based two-step molecule generator with variational autoencoder and transformer** [[Paper]](https://academic.oup.com/bioinformatics/article/39/1/btac814/6964383) [[Code]](https://github.com/zhiruiliao/Sc2Mol)
+
+
 
 2022
 ----
@@ -120,3 +140,9 @@ Regularized Autoencoders** [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3219819.
 * [Journal of Cheminformatics 2017] **Molecular de-novo design through deep reinforcement learning** [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-017-0235-x)[[Code]](https://github.com/MarcusOlivecrona/REINVENT)
 * [arXiv 2017] **GraphGAN: Graph Representation Learning with Generative Adversarial Nets** [[Paper]](https://arxiv.org/abs/1711.08267) [[Code]](https://github.com/hwwang55/GraphGAN)
 
+Acknowledgement
+----
+
+- Papers between 2017-2021 about **De novo Drug Design :pill:** collected by [@HUBioDataLab](https://github.com/HUBioDataLab) members while I was in research intern program.
+
+- Template by [@mengliu1998](https://github.com/mengliu1998)!
