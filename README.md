@@ -9,6 +9,7 @@ Papers about **De novo Drug Design :pill:**
 
 2023
 ----
+* [ScienceDirect 2023] **DNMG: Deep molecular generative model by fusion of 3D information for de novo drug design** [[Paper]](https://www.sciencedirect.com/science/article/pii/S1046202323000245) [[Code]](https://gitlab.com/cheminfIBB/pafnucy)
 * [ACS 2023] **Universal Approach to De Novo Drug Design for Target Proteins Using Deep Reinforcement Learning** [[Paper]](https://pubs.acs.org/doi/full/10.1021/acsomega.2c06653)
 * [ScienceDirect 2023] **Chemical language models for de novo drug design: Challenges and opportunities** [[Paper]](https://www.sciencedirect.com/science/article/pii/S0959440X23000015)
 * [arXiv 2023] **Drug design on quantum computers** [[Paper]](https://arxiv.org/abs/2301.04114)
