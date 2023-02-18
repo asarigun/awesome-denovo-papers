@@ -9,6 +9,7 @@ Papers about **De novo Drug Design :pill:**
 
 2023
 ----
+* [arXiv 2023] **Target Specific De Novo Design of Drug Candidate Molecules with Graph Transformer-based Generative Adversarial Networks** [[Paper]](https://arxiv.org/abs/2302.07868) [[Code]](https://github.com/asarigun/DrugGEN)
 * [Wiley 2023] **De novo design of a molecular catalyst using a generative model** [[Paper]](https://onlinelibrary.wiley.com/doi/10.1002/anie.202218565) [[Code]](https://github.com/jensengroup/mbh_catalyst_ga)
 * [ScienceDirect 2023] **DNMG: Deep molecular generative model by fusion of 3D information for de novo drug design** [[Paper]](https://www.sciencedirect.com/science/article/pii/S1046202323000245) [[Code]](https://gitlab.com/cheminfIBB/pafnucy)
 * [ACS 2023] **Universal Approach to De Novo Drug Design for Target Proteins Using Deep Reinforcement Learning** [[Paper]](https://pubs.acs.org/doi/full/10.1021/acsomega.2c06653)
