@@ -9,6 +9,16 @@ Papers about **De novo Drug Design :pill:**
 
 2023
 ----
+* [ACS 2023] **Machine Learning for Fast, Quantum Mechanics-Based Approximation of Drug Lipophilicity** [[Paper]](https://pubs.acs.org/doi/full/10.1021/acsomega.2c05607) [[Code]](https://github.com/cisert/rescoss_logp_ml)
+* [bioRxiv 2023] **Variational graph encoders: a surprisingly effective generalist algorithm for holistic computer-aided drug design** [[Paper]](https://www.biorxiv.org/content/10.1101/2023.01.11.523575v2.abstract) [[Code]](https://github.com/Chokyotager/NotYetAnotherNightshade)
+* [ChemRxiv 2023] **ChemTSv2: Democratizing Functional Molecular Design Using de novo Molecule Generator** [[Paper]](https://chemrxiv.org/engage/chemrxiv/article-details/63da180001ecc690f91b0c78) [[Code]](https://github.com/molecule-generator-collection/ChemTSv2)
+* [arXiv 2023] **Generative Diffusion Models on Graphs: Methods and Applications** [[Paper]](https://arxiv.org/abs/2302.02591)
+* [bioRxiv 2023] **A dual diffusion model enables 3D binding bioactive molecule generation and lead optimization given target pockets** [[Paper]](https://www.biorxiv.org/content/10.1101/2023.01.28.526011v1.abstract) [[Data]](https://bits.csb.pitt.edu/files/crossdock2020/)
+* [arXiv 2023] **De Novo Molecular Generation via Connection-aware Motif Mining** [[Paper]](https://arxiv.org/abs/2302.01129) [[Code]](https://github.com/miralab-ustc/ai4sci-micam)
+* [ICLR 2023] **3D Equivariant Diffusion for Target-Aware Molecule Generation and Affinity Prediction** [[Paper]](https://arxiv.org/abs/2303.03543) [[Code]](https://github.com/guanjq/targetdiff)
+* [ScienceDirect 2023] **Structure-based drug design with geometric deep learning** [[Paper]](https://www.sciencedirect.com/science/article/pii/S0959440X23000222)
+* [ACS 2023] **Chemistry42: An AI-Driven Platform for Molecular Design and Optimization** [[Paper]](https://pubs.acs.org/doi/full/10.1021/acs.jcim.2c01191) [[Code]](https://github.com/insilicomedicine/GENTRL) [[Platform]](https://chemistry42.com)
+* [Journal of Cheminformatics 2023] **DrugEx v3: scaffold-constrained drug design with graph transformer-based reinforcement learning** [[Paper]](https://link.springer.com/article/10.1186/s13321-023-00694-z) [[Code]](https://github.com/CDDLeiden/DrugEx)
 * [arXiv 2023] **Target Specific De Novo Design of Drug Candidate Molecules with Graph Transformer-based Generative Adversarial Networks** [[Paper]](https://arxiv.org/abs/2302.07868) [[Code]](https://github.com/asarigun/DrugGEN)
 * [Wiley 2023] **De novo design of a molecular catalyst using a generative model** [[Paper]](https://onlinelibrary.wiley.com/doi/10.1002/anie.202218565) [[Code]](https://github.com/jensengroup/mbh_catalyst_ga)
 * [ScienceDirect 2023] **DNMG: Deep molecular generative model by fusion of 3D information for de novo drug design** [[Paper]](https://www.sciencedirect.com/science/article/pii/S1046202323000245) [[Code]](https://gitlab.com/cheminfIBB/pafnucy)
