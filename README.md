@@ -38,6 +38,7 @@ Papers about **De novo Drug Design :pill:**
 
 2022
 ----
+* [arXiv 2022] **Equivariant Shape-Conditioned Generation of 3D Molecules for Ligand-Based Drug Design**  [[Paper]](https://arxiv.org/abs/2210.04893) [[Code]](https://github.com/keiradams/squid)
 * [ICML 2022] **Generating 3D Molecules for Target Protein Binding** [[Paper]](https://arxiv.org/abs/2204.09410) [[Code]](https://github.com/divelab/GraphBP)
 * [arXiv 2022] **Structure-based drug discovery with deep learning** | *Review*  [[Paper]](https://arxiv.org/abs/2212.13295) 
 * [arXiv 2022] **DiffLinker: Equivariant 3D-Conditional Diffusion Model for Molecular Linker Design**  [[Paper]](https://arxiv.org/abs/2210.05274) [[Code]](https://github.com/igashov/DiffLinker)
