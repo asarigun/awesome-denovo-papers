@@ -9,6 +9,8 @@ Papers about **De novo Drug Design :pill:**
 
 2023
 ----
+* [Journal of Chem. 2023] **Deep generative model for drug design from protein target sequence** [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00702-2) [[Code]](https://github.com/viko-3/TargetGAN)
+* [Journal of Mol. Mod. 2023] **De novo drug design based on Stack-RNN with multi-objective reward-weighted sum and reinforcement learning** [[Paper]](https://link.springer.com/article/10.1007/s00894-023-05523-6) [[Code]](https://github.com/PengWeiHu1/mul_RL/tree/master)
 * [ACS 2023] **Machine Learning for Fast, Quantum Mechanics-Based Approximation of Drug Lipophilicity** [[Paper]](https://pubs.acs.org/doi/full/10.1021/acsomega.2c05607) [[Code]](https://github.com/cisert/rescoss_logp_ml)
 * [bioRxiv 2023] **Variational graph encoders: a surprisingly effective generalist algorithm for holistic computer-aided drug design** [[Paper]](https://www.biorxiv.org/content/10.1101/2023.01.11.523575v2.abstract) [[Code]](https://github.com/Chokyotager/NotYetAnotherNightshade)
 * [ChemRxiv 2023] **ChemTSv2: Democratizing Functional Molecular Design Using de novo Molecule Generator** [[Paper]](https://chemrxiv.org/engage/chemrxiv/article-details/63da180001ecc690f91b0c78) [[Code]](https://github.com/molecule-generator-collection/ChemTSv2)
