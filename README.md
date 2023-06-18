@@ -9,6 +9,16 @@ Papers about **De novo Drug Design :pill:**
 
 2023
 ----
+* [Journal of Cheminf. 2023] **Conditional reduction of the loss value versus reinforcement learning for biassing a de-novo drug design generator** [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00643-2) [[Code]](https://github.com/amine179/DrugDesign)
+* [ACS JCIM 2023] **Exploring the Advantages of Quantum Generative Adversarial Networks in Generative Chemistry** [[Paper]](https://pubs.acs.org/doi/full/10.1021/acs.jcim.3c00562) [[Code]](https://github.com/pykao/QuantumMolGAN-PyTorch)
+* [Research Square 2023] **LS-MolGen: Ligand-and-Structure Dual-driven Deep Reinforcement Learning for Target-specific Molecular Generation Improves Binding Affinity and Novelty** [[Paper]](https://www.researchsquare.com/article/rs-2793302/v1) [[Code]](https://github.com/songleee/LS-MolGen)
+* [bioRxiv 2023] **An Equivariant Generative Framework for Molecular Graph-Structure Co-Design** [[Paper]](https://www.biorxiv.org/content/10.1101/2023.04.13.536803v1.abstract) [[Code]](https://github.com/zaixizhang/MolCode)
+* [ChemRxiv 2023] **De Novo Design of Molecules Towards Biased Properties via a Deep Generative Framework and Iterative Transfer Learning** [[Paper]](https://chemrxiv.org/engage/chemrxiv/article-details/643019ee736114c963130d96) [[Code]](https://github.com/linresearchgroup/RRCGAN_Molecules)
+* [Bioinformatics 2023] **De novo drug design by iterative multiobjective deep reinforcement learning with graph-based molecular quality assessment** [[Paper]](https://academic.oup.com/bioinformatics/article/39/4/btad157/7085596) [[Code]](https://github.com/yifang000/QADD)
+* [arXiv 2023] **Balancing Exploration and Exploitation: Disentangled β-CVAE in De Novo Drug Design** [[Paper]](https://arxiv.org/abs/2306.01683)
+* [ACS JCIM 2023] **Generative Models Should at Least Be Able to Design Molecules That Dock Well: A New Benchmark** [[Paper]](https://pubs.acs.org/doi/full/10.1021/acs.jcim.2c01355) [[Code]](https://github.com/cieplinski-tobiasz/smina-docking-benchmark)
+* [Molecules 2023] **cMolGPT: A Conditional Generative Pre-Trained Transformer for Target-Specific De Novo Molecular Generation** [[Paper]](https://www.mdpi.com/1420-3049/28/11/4430) [[Code]](https://github.com/VV123/cMolGPT)
+* [ChemRxiv 2023] **A Protein-Ligand Interaction-focused 3D Molecular Generative Framework for Generalizable Structure-based Drug Design** [[Paper]](https://chemrxiv.org/engage/chemrxiv/article-details/6482d9dbbe16ad5c57af1937) [[Code]](https://github.com/ACE-KAIST/DeepICL)
 * [arXiv 2023] **SILVR: Guided Diffusion for Molecule Generation** [[Paper]](https://arxiv.org/abs/2304.10905) [[Code]](https://github.com/ehoogeboom/e3_diffusion_for_molecules)
 * [Journal of Chem. 2023] **Deep generative model for drug design from protein target sequence** [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00702-2) [[Code]](https://github.com/viko-3/TargetGAN)
 * [Journal of Mol. Mod. 2023] **De novo drug design based on Stack-RNN with multi-objective reward-weighted sum and reinforcement learning** [[Paper]](https://link.springer.com/article/10.1007/s00894-023-05523-6) [[Code]](https://github.com/PengWeiHu1/mul_RL/tree/master)
