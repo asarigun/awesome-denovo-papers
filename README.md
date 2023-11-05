@@ -9,6 +9,19 @@ Papers about **De novo Drug Design :pill:**
 
 2023
 ----
+* [AAAI 2023] **MDM: Molecular Diffusion Model for 3D Molecule Generation** [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25639) [[Code]](https://github.com/tencent-ailab/MDM)
+* [ChemRxiv 2023] **MoFlowGAN: Combining adversarial and likelihood learning for targeted molecular generation** [[Paper]](https://chemrxiv.org/engage/chemrxiv/article-details/6495bd352e632767b0ab56be) [[Code]](https://github.com/thisisntnathan/MoFlowGAN)
+* [arXiv 2023] **Graph Generative Model for Benchmarking Graph Neural Networks** [[Paper]](https://arxiv.org/abs/2207.04396) [[Code]](https://github.com/minjiyoon/CGT)
+* [bioRxiv 2023] **Target-aware Variational Auto-encoders for Ligand Generation with Multimodal Protein Representation Learning** [[Paper]](https://www.biorxiv.org/content/10.1101/2023.08.10.552868v1.abstract) [[Code]](https://github.com/HySonLab/Ligand_Generation)
+* [arXiv 2023] **Learning Joint 2D & 3D Diffusion Models for Complete Molecule Generation** [[Paper]](https://arxiv.org/abs/2305.12347) [[Code]](https://github.com/graph-0/jodo)
+* [arXiv 2023] **Molecule Design by Latent Prompt Transformer** [[Paper]](https://arxiv.org/abs/2310.03253) 
+* [Journal of Cheminformatics 2023] **ScaffoldGVAE: scaffold generation and hopping of drug molecules via a variational autoencoder based on multi-view graph neural networks** [[Paper]](https://link.springer.com/article/10.1186/s13321-023-00766-0) [[Code]](https://github.com/ecust-hc/ScaffoldGVAE)
+* [Journal of Cheminformatics 2023] **MolFilterGAN: a progressively augmented generative adversarial network for triaging AI-designed molecules** [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00711-1) [[Code]](https://github.com/MolFilterGAN/MolFilterGAN)
+* [arXiv 2023] **Reinforcement Learning for Generative AI: State of the Art, Opportunities and Open Research Challenges** [[Paper]](https://arxiv.org/abs/2308.00031) 
+* [ICML 2023] **Coarse-to-Fine: a Hierarchical Diffusion Model for Molecule Generation in 3D** [[Paper]](https://proceedings.mlr.press/v202/qiang23a.html) [[Code]](https://github.com/qiangbo1222/HierDiff)
+* [ACS JCIM 2023] **De Novo Generation of Chemical Structures of Inhibitor and Activator Candidates for Therapeutic Target Proteins by a Transformer-Based Variational Autoencoder and Bayesian Optimization** [[Paper]](https://pubs.acs.org/doi/full/10.1021/acs.jcim.3c00824) [[Code]](https://yamanishi.cs.i.nagoya-u.ac.jp/triompheboa/)
+* [ECML PKDD 2023] **Target-Aware Molecular Graph Generation** [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-43427-3_25)
+* [ECML PKDD 2023] **SpotGAN: A Reverse-Transformer GAN Generates Scaffold-Constrained Molecules with Property Optimization** [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-43412-9_19) [[Code]](https://github.com/naruto7283/SpotGAN)
 * [Journal of Cheminf. 2023] **Conditional reduction of the loss value versus reinforcement learning for biassing a de-novo drug design generator** [[Paper]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00643-2) [[Code]](https://github.com/amine179/DrugDesign)
 * [ACS JCIM 2023] **Exploring the Advantages of Quantum Generative Adversarial Networks in Generative Chemistry** [[Paper]](https://pubs.acs.org/doi/full/10.1021/acs.jcim.3c00562) [[Code]](https://github.com/pykao/QuantumMolGAN-PyTorch)
 * [Research Square 2023] **LS-MolGen: Ligand-and-Structure Dual-driven Deep Reinforcement Learning for Target-specific Molecular Generation Improves Binding Affinity and Novelty** [[Paper]](https://www.researchsquare.com/article/rs-2793302/v1) [[Code]](https://github.com/songleee/LS-MolGen)
