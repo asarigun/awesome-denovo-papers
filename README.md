@@ -64,6 +64,7 @@ Papers about **De novo Drug Design :pill:**
 
 2022
 ----
+* [NeurIPS 2022] **Zero-Shot 3D Drug Design by Sketching and Generating**  [[Paper]](https://arxiv.org/abs/2209.13865) [[Code]](https://github.com/longlongman/DESERT)
 * [arXiv 2022] **Equivariant Shape-Conditioned Generation of 3D Molecules for Ligand-Based Drug Design**  [[Paper]](https://arxiv.org/abs/2210.04893) [[Code]](https://github.com/keiradams/squid)
 * [ICML 2022] **Generating 3D Molecules for Target Protein Binding** [[Paper]](https://arxiv.org/abs/2204.09410) [[Code]](https://github.com/divelab/GraphBP)
 * [arXiv 2022] **Structure-based drug discovery with deep learning** | *Review*  [[Paper]](https://arxiv.org/abs/2212.13295) 
